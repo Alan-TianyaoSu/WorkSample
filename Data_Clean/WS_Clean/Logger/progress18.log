@@ -1,0 +1,128 @@
+2024-03-21 16:34:38,295 - root - INFO - Cleaning start, Batch_id:2018
+
+2024-03-21 16:37:28,350 - root - INFO - Cleaning start, Batch_id:2018
+
+2024-03-21 16:55:44,335 - root - INFO - Cleaning start, Batch_id:2018
+
+2024-03-21 16:57:05,284 - root - INFO - Cleaning start, Batch_id:2018
+
+2024-03-21 16:59:00,104 - root - INFO - Cleaning start, Batch_id:2018
+
+2024-03-21 17:04:42,567 - root - INFO - Cleaning start, Batch_id:2018
+
+2024-03-21 17:26:30,193 - root - INFO - Cleaning start, Batch_id:2018
+
+2024-03-21 17:26:30,221 - root - INFO - Caught an unexpected exception: string index out of range,
+
+2024-03-21 17:27:33,940 - root - INFO - Cleaning start, Batch_id:2018
+
+2024-03-21 17:30:36,992 - root - INFO - Cleaning start, Batch_id:2018
+
+2024-03-21 17:33:24,756 - root - INFO - Cleaning start, Batch_id:2018
+
+2024-03-21 17:39:23,566 - root - INFO - Cleaning start, Batch_id:2018
+
+2024-03-21 17:40:03,639 - root - INFO - Cleaning start, Batch_id:2018
+
+2024-03-21 17:41:25,735 - root - INFO - Cleaning start, Batch_id:2018
+
+2024-03-21 17:41:45,012 - root - INFO - Cleaning start, Batch_id:2018
+
+2024-03-21 17:43:25,339 - root - INFO - Cleaning start, Batch_id:2018
+
+2024-03-21 17:44:30,220 - root - INFO - Cleaning start, Batch_id:2018
+
+2024-03-21 17:44:39,892 - root - INFO - Cleaning start, Batch_id:2018
+
+2024-03-21 17:44:59,758 - root - INFO - Cleaning start, Batch_id:2018
+
+2024-03-21 17:45:58,511 - root - INFO - Cleaning start, Batch_id:2018
+
+2024-03-21 17:46:03,663 - root - INFO - WS_2018 CLeaning Completed. Time-Consuming: 00:00:05.
+
+2024-03-21 17:47:45,830 - root - INFO - Cleaning start, Batch_id:2018
+
+2024-03-21 17:47:51,617 - root - INFO - WS_2018 CLeaning Completed. Time-Consuming: 00:00:06.
+
+2024-03-22 18:21:27,542 - root - INFO - Cleaning start, Batch_id:2018
+
+2024-03-22 18:21:27,947 - root - INFO - Caught an unexpected exception: 'list' object has no attribute 'split',
+
+2024-03-22 18:22:29,497 - root - INFO - Cleaning start, Batch_id:2018
+
+2024-03-22 18:22:29,852 - root - INFO - Caught an unexpected exception: "None of [Index([nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan],\n      dtype='float64')] are in the [columns]",
+
+2024-03-22 18:23:30,084 - root - INFO - Cleaning start, Batch_id:2018
+
+2024-03-22 18:23:30,435 - root - INFO - Caught an unexpected exception: "None of [Index([nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan],\n      dtype='float64')] are in the [columns]",
+
+2024-03-22 18:25:59,721 - root - INFO - Cleaning start, Batch_id:2018
+
+2024-03-22 18:26:00,079 - root - INFO - Caught an unexpected exception: "None of [Index([nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan],\n      dtype='float64')] are in the [columns]",
+
+2024-03-22 18:27:00,119 - root - INFO - Cleaning start, Batch_id:2018
+
+2024-03-22 18:27:00,473 - root - INFO - Caught an unexpected exception: "None of [Index([nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan],\n      dtype='float64')] are in the [columns]",
+
+2024-03-22 18:27:17,645 - root - INFO - Cleaning start, Batch_id:2018
+
+2024-03-22 18:27:18,044 - root - INFO - Caught an unexpected exception: "None of [Index([nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan],\n      dtype='float64')] are in the [columns]",
+
+2024-03-22 18:28:48,533 - root - INFO - Cleaning start, Batch_id:2018
+
+2024-03-22 18:28:48,926 - root - INFO - Caught an unexpected exception: "None of [Index([nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan],\n      dtype='float64')] are in the [columns]",
+
+2024-03-22 18:29:49,308 - root - INFO - Cleaning start, Batch_id:2018
+
+2024-03-22 18:29:49,659 - root - INFO - Caught an unexpected exception: "None of [Index([nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan],\n      dtype='float64')] are in the [columns]",
+
+2024-03-22 18:31:40,059 - root - INFO - Cleaning start, Batch_id:2018
+
+2024-03-22 18:31:40,439 - root - INFO - Caught an unexpected exception: "None of [Index([nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan],\n      dtype='float64')] are in the [columns]",
+
+2024-03-22 18:34:27,211 - root - INFO - Cleaning start, Batch_id:2018
+
+2024-03-22 18:34:27,582 - root - INFO - Caught an unexpected exception: "None of [Index([nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan],\n      dtype='float64')] are in the [columns]",
+
+2024-03-22 18:35:47,842 - root - INFO - Cleaning start, Batch_id:2018
+
+2024-03-22 18:35:48,240 - root - INFO - Caught an unexpected exception: "None of [Index([nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan],\n      dtype='float64')] are in the [columns]",
+
+2024-03-22 18:39:51,407 - root - INFO - Cleaning start, Batch_id:2018
+
+2024-03-22 18:39:51,808 - root - INFO - Caught an unexpected exception: save_progress() missing 1 required positional argument: 'year',
+
+2024-03-27 21:06:00,876 - root - INFO - Cleaning start, Batch_id:2018
+
+2024-03-27 21:06:00,886 - root - INFO - WS_2018 CLeaning Completed. Time-Consuming: 00:00:00.
+
+2024-03-27 21:06:18,948 - root - INFO - Cleaning start, Batch_id:2018
+
+2024-03-27 21:08:46,182 - root - INFO - WS_2018 CLeaning Completed. Time-Consuming: 00:02:27.
+
+2024-04-03 18:30:13,357 - root - INFO - Cleaning start, Batch_id:2018
+
+2024-04-03 18:34:00,515 - root - INFO - 50 Batch Completed. Processing:100%.[ 00:03:47/00:03:47, 220.26it/s ]
+
+2024-04-03 18:34:00,516 - root - INFO - WS_2018 CLeaning Completed. Time-Consuming: 00:03:47.
+
+2024-04-03 20:13:16,297 - root - INFO - Cleaning start, Batch_id:2018
+
+2024-04-03 20:13:20,717 - root - INFO - Caught an unexpected exception: "['т╜нд'] not in index",
+
+2024-04-03 20:15:02,794 - root - INFO - Cleaning start, Batch_id:2018
+
+2024-04-03 20:15:07,517 - root - INFO - Caught an unexpected exception: expected string or bytes-like object, got 'float',
+
+2024-04-03 20:16:33,239 - root - INFO - Cleaning start, Batch_id:2018
+
+2024-04-03 20:18:47,396 - root - INFO - Cleaning start, Batch_id:2018
+
+2024-04-03 20:19:40,776 - root - INFO - Network Error Occured: mongo.fqyai.cn:27017: [Errno 11001] getaddrinfo failed (configured timeouts: connectTimeoutMS: 20000.0ms),
+
+2024-04-03 20:21:43,985 - root - INFO - Cleaning start, Batch_id:2018
+
+2024-04-03 20:24:46,358 - root - INFO - 50 Batch Completed. Processing:100%.[ 00:03:02/00:03:02, 274.73it/s ]
+
+2024-04-03 20:24:46,358 - root - INFO - WS_2018 CLeaning Completed. Time-Consuming: 00:03:02.
+

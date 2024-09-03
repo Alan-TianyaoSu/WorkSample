@@ -1,0 +1,450 @@
+2024-03-21 11:20:49,979 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 11:20:51,389 - root - INFO - 50 Batch Completed. Processing:25%.[ 00:00:01/00:00:04, 500.0it/s ]
+
+2024-03-21 11:23:59,799 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 11:24:01,512 - root - INFO - 50 Batch Completed. Processing:25%.[ 00:00:02/00:00:08, 250.0it/s ]
+
+2024-03-21 11:24:03,376 - root - INFO - 50 Batch Completed. Processing:50%.[ 00:00:04/00:00:08, 250.0it/s ]
+
+2024-03-21 11:24:04,259 - root - INFO - Caught an unexpected exception: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(),
+
+2024-03-21 11:27:41,309 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 11:27:43,055 - root - INFO - 50 Batch Completed. Processing:25%.[ 00:00:02/00:00:08, 250.0it/s ]
+
+2024-03-21 11:27:44,879 - root - INFO - 50 Batch Completed. Processing:50%.[ 00:00:04/00:00:08, 250.0it/s ]
+
+2024-03-21 11:27:45,755 - root - INFO - Caught an unexpected exception: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(),
+
+2024-03-21 11:29:42,344 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 11:29:42,360 - root - INFO - Caught an unexpected exception: Locate_Cursor() missing 1 required positional argument: 'size',
+
+2024-03-21 11:30:03,369 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 11:30:06,542 - root - INFO - Caught an unexpected exception: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(),
+
+2024-03-21 11:59:29,770 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 11:59:33,233 - root - INFO - Caught an unexpected exception: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(),
+
+2024-03-21 12:02:14,893 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 12:02:16,613 - root - INFO - 50 Batch Completed. Processing:25%.[ 00:00:02/00:00:08, 250.0it/s ]
+
+2024-03-21 12:02:18,442 - root - INFO - 50 Batch Completed. Processing:50%.[ 00:00:04/00:00:08, 250.0it/s ]
+
+2024-03-21 12:02:19,310 - root - INFO - Caught an unexpected exception: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(),
+
+2024-03-21 12:54:43,686 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 12:54:45,733 - root - INFO - 50 Batch Completed. Processing:25%.[ 00:00:02/00:00:08, 250.0it/s ]
+
+2024-03-21 12:54:47,521 - root - INFO - 50 Batch Completed. Processing:50%.[ 00:00:04/00:00:08, 250.0it/s ]
+
+2024-03-21 12:54:49,161 - root - INFO - 50 Batch Completed. Processing:75%.[ 00:00:05/00:00:07, 300.0it/s ]
+
+2024-03-21 12:54:50,557 - root - INFO - 50 Batch Completed. Processing:100%.[ 00:00:07/00:00:07, 285.71it/s ]
+
+2024-03-21 12:54:50,557 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:07.
+
+2024-03-21 12:57:15,530 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 12:57:16,940 - root - INFO - 50 Batch Completed. Processing:25%.[ 00:00:01/00:00:04, 500.0it/s ]
+
+2024-03-21 12:57:18,750 - root - INFO - 50 Batch Completed. Processing:50%.[ 00:00:03/00:00:06, 333.33it/s ]
+
+2024-03-21 12:57:20,257 - root - INFO - 50 Batch Completed. Processing:75%.[ 00:00:05/00:00:07, 300.0it/s ]
+
+2024-03-21 12:57:21,464 - root - INFO - 50 Batch Completed. Processing:100%.[ 00:00:06/00:00:06, 333.33it/s ]
+
+2024-03-21 12:57:21,464 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:06.
+
+2024-03-21 13:04:03,772 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 13:04:04,377 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:01.
+
+2024-03-21 13:55:03,936 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 13:55:04,166 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:00.
+
+2024-03-21 14:21:29,099 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 14:21:29,543 - root - INFO - Caught an unexpected exception: 'NoneType' object has no attribute 'group',
+
+2024-03-21 14:24:13,106 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 14:24:13,483 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:00.
+
+2024-03-21 14:27:18,915 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 14:27:19,260 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:00.
+
+2024-03-21 14:40:28,110 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 14:40:29,828 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:02.
+
+2024-03-21 14:42:55,241 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 14:42:57,062 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:02.
+
+2024-03-21 14:47:22,601 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 14:47:24,333 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:02.
+
+2024-03-21 14:54:24,493 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 14:54:26,526 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:02.
+
+2024-03-21 14:56:05,108 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 14:56:06,927 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:02.
+
+2024-03-21 14:59:39,453 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 14:59:41,277 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:02.
+
+2024-03-21 15:02:02,487 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 15:02:04,575 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:02.
+
+2024-03-21 15:03:30,338 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 15:03:32,054 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:02.
+
+2024-03-21 15:09:39,120 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 15:09:40,847 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:02.
+
+2024-03-21 15:10:29,570 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 15:10:31,403 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:02.
+
+2024-03-21 15:10:39,050 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 15:10:40,865 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:02.
+
+2024-03-21 15:11:48,054 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 15:11:49,888 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:02.
+
+2024-03-21 15:13:44,232 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 15:13:46,009 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:02.
+
+2024-03-21 15:13:59,179 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 15:14:01,297 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:02.
+
+2024-03-21 15:14:27,693 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 15:14:27,696 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:00.
+
+2024-03-21 15:14:51,316 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 15:14:53,082 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:02.
+
+2024-03-21 15:17:56,908 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 15:17:59,030 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:02.
+
+2024-03-21 15:18:18,075 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 15:18:19,894 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:02.
+
+2024-03-21 15:21:04,659 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 15:21:06,480 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:02.
+
+2024-03-21 15:24:29,892 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 15:24:31,743 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:02.
+
+2024-03-21 15:27:21,575 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 15:27:21,579 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:00.
+
+2024-03-21 15:28:27,094 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 15:28:28,854 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:02.
+
+2024-03-21 15:32:51,141 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 15:32:52,908 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:02.
+
+2024-03-21 15:34:13,622 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 15:34:15,452 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:02.
+
+2024-03-21 15:38:09,822 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 15:38:11,704 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:02.
+
+2024-03-21 16:00:31,904 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 16:00:33,653 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:02.
+
+2024-03-21 16:01:55,450 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 16:01:57,253 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:02.
+
+2024-03-21 16:02:33,941 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 16:02:35,710 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:02.
+
+2024-03-21 16:04:37,064 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 16:04:38,860 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:02.
+
+2024-03-21 16:05:27,463 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 16:05:29,297 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:02.
+
+2024-03-21 16:06:31,256 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 16:06:31,296 - root - INFO - Caught an unexpected exception: list index out of range,
+
+2024-03-21 16:08:27,524 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 16:08:27,536 - root - INFO - Caught an unexpected exception: list index out of range,
+
+2024-03-21 16:09:36,783 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 16:09:36,795 - root - INFO - Caught an unexpected exception: list index out of range,
+
+2024-03-21 16:12:31,471 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 16:12:31,514 - root - INFO - Caught an unexpected exception: list index out of range,
+
+2024-03-21 16:14:32,566 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 16:14:32,620 - root - INFO - Caught an unexpected exception: list index out of range,
+
+2024-03-21 16:14:59,825 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 16:14:59,836 - root - INFO - Caught an unexpected exception: list index out of range,
+
+2024-03-21 16:15:22,906 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 16:15:22,917 - root - INFO - Caught an unexpected exception: list index out of range,
+
+2024-03-21 16:17:17,835 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 16:17:17,848 - root - INFO - Caught an unexpected exception: list index out of range,
+
+2024-03-21 16:18:24,877 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 16:18:24,889 - root - INFO - Caught an unexpected exception: list index out of range,
+
+2024-03-21 16:21:36,565 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 16:21:36,576 - root - INFO - Caught an unexpected exception: list index out of range,
+
+2024-03-21 16:22:44,246 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 16:22:45,954 - root - INFO - Caught an unexpected exception: string index out of range,
+
+2024-03-21 16:25:00,848 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 16:25:01,714 - root - INFO - Caught an unexpected exception: string index out of range,
+
+2024-03-21 16:26:05,094 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 16:26:05,122 - root - INFO - Caught an unexpected exception: string index out of range,
+
+2024-03-21 16:26:21,392 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 16:26:21,421 - root - INFO - Caught an unexpected exception: string index out of range,
+
+2024-03-21 16:27:04,372 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 16:27:04,398 - root - INFO - Caught an unexpected exception: string index out of range,
+
+2024-03-21 16:27:38,468 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 16:27:39,474 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:01.
+
+2024-03-21 16:32:07,312 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 16:32:13,935 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:07.
+
+2024-03-21 16:34:38,328 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 16:34:45,459 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:07.
+
+2024-03-21 16:37:28,371 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 16:37:38,286 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:10.
+
+2024-03-21 16:55:44,301 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 16:55:57,409 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:13.
+
+2024-03-21 16:57:05,466 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 16:57:15,288 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:10.
+
+2024-03-21 16:59:00,190 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 16:59:10,011 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:10.
+
+2024-03-21 17:04:42,655 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 17:04:53,452 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:11.
+
+2024-03-21 17:14:44,020 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 17:14:50,574 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:07.
+
+2024-03-21 17:16:31,951 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 17:16:38,741 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:07.
+
+2024-03-21 17:18:52,136 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 17:18:58,746 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:07.
+
+2024-03-21 17:47:45,931 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-21 17:47:53,528 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:08.
+
+2024-03-22 14:42:20,755 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-22 14:42:20,955 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:00.
+
+2024-03-22 16:42:20,866 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-22 16:42:20,904 - root - INFO - Caught an unexpected exception: expected string or bytes-like object, got 'Series',
+
+2024-03-22 16:43:31,571 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-22 16:43:31,625 - root - INFO - Caught an unexpected exception: expected string or bytes-like object, got 'Series',
+
+2024-03-22 16:44:31,062 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-22 16:44:31,423 - root - INFO - Caught an unexpected exception: expected string or bytes-like object, got 'Series',
+
+2024-03-22 16:45:06,068 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-22 16:45:06,131 - root - INFO - Caught an unexpected exception: expected string or bytes-like object, got 'Series',
+
+2024-03-22 16:45:24,655 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-22 16:45:24,694 - root - INFO - Caught an unexpected exception: expected string or bytes-like object, got 'Series',
+
+2024-03-22 16:46:13,480 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-22 16:46:13,520 - root - INFO - Caught an unexpected exception: expected string or bytes-like object, got 'Series',
+
+2024-03-22 16:46:24,935 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-22 16:46:24,990 - root - INFO - Caught an unexpected exception: expected string or bytes-like object, got 'Series',
+
+2024-03-22 16:47:50,610 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-22 16:47:50,658 - root - INFO - Caught an unexpected exception: Object of type Decimal is not JSON serializable,
+
+2024-03-22 16:49:19,496 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-22 16:49:19,647 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:00.
+
+2024-03-22 16:52:52,464 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-22 16:52:52,942 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:00.
+
+2024-03-22 16:53:57,077 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-22 16:53:57,231 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:00.
+
+2024-03-22 16:59:37,782 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-22 16:59:37,927 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:00.
+
+2024-03-22 17:07:26,233 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-22 17:07:26,869 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:01.
+
+2024-03-22 18:21:27,584 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-22 18:21:27,958 - root - INFO - Caught an unexpected exception: 'list' object has no attribute 'split',
+
+2024-03-22 18:22:29,585 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-22 18:22:29,884 - root - INFO - Caught an unexpected exception: "None of [Index([nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan],\n      dtype='float64')] are in the [columns]",
+
+2024-03-22 18:23:30,198 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-22 18:23:30,478 - root - INFO - Caught an unexpected exception: "None of [Index([nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan],\n      dtype='float64')] are in the [columns]",
+
+2024-03-22 18:25:59,981 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-22 18:26:00,284 - root - INFO - Caught an unexpected exception: "None of [Index([nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan],\n      dtype='float64')] are in the [columns]",
+
+2024-03-22 18:27:00,153 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-22 18:27:00,459 - root - INFO - Caught an unexpected exception: "None of [Index([nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan],\n      dtype='float64')] are in the [columns]",
+
+2024-03-22 18:27:18,003 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-22 18:27:18,331 - root - INFO - Caught an unexpected exception: "None of [Index([nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan],\n      dtype='float64')] are in the [columns]",
+
+2024-03-22 18:28:48,711 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-22 18:28:49,064 - root - INFO - Caught an unexpected exception: "None of [Index([nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan],\n      dtype='float64')] are in the [columns]",
+
+2024-03-22 18:29:49,617 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-22 18:29:49,894 - root - INFO - Caught an unexpected exception: "None of [Index([nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan],\n      dtype='float64')] are in the [columns]",
+
+2024-03-22 18:31:40,135 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-22 18:31:40,453 - root - INFO - Caught an unexpected exception: "None of [Index([nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan],\n      dtype='float64')] are in the [columns]",
+
+2024-03-22 18:34:27,605 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-22 18:34:27,905 - root - INFO - Caught an unexpected exception: "None of [Index([nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan],\n      dtype='float64')] are in the [columns]",
+
+2024-03-22 18:35:48,008 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-22 18:35:48,285 - root - INFO - Caught an unexpected exception: "None of [Index([nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,\n       nan, nan],\n      dtype='float64')] are in the [columns]",
+
+2024-03-22 18:39:51,536 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-22 18:39:51,861 - root - INFO - Caught an unexpected exception: save_progress() missing 1 required positional argument: 'year',
+
+2024-03-27 21:06:00,876 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-27 21:06:00,886 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:00:00.
+
+2024-03-27 21:06:19,045 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-03-27 21:08:11,042 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:01:52.
+
+2024-04-03 18:30:13,374 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-04-03 18:33:54,682 - root - INFO - 50 Batch Completed. Processing:100%.[ 00:03:41/00:03:41, 226.24it/s ]
+
+2024-04-03 18:33:54,683 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:03:41.
+
+2024-04-03 20:13:16,524 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-04-03 20:13:21,693 - root - INFO - Caught an unexpected exception: "['т╜нд'] not in index",
+
+2024-04-03 20:15:02,822 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-04-03 20:15:15,293 - root - INFO - Caught an unexpected exception: expected string or bytes-like object, got 'float',
+
+2024-04-03 20:16:33,172 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-04-03 20:18:47,273 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-04-03 20:19:40,775 - root - INFO - Network Error Occured: mongo.fqyai.cn:27017: [Errno 11001] getaddrinfo failed (configured timeouts: connectTimeoutMS: 20000.0ms),
+
+2024-04-03 20:21:44,790 - root - INFO - Cleaning start, Batch_id:2023
+
+2024-04-03 20:24:29,267 - root - INFO - 50 Batch Completed. Processing:100%.[ 00:02:44/00:02:44, 304.88it/s ]
+
+2024-04-03 20:24:29,267 - root - INFO - WS_2023 CLeaning Completed. Time-Consuming: 00:02:44.
+
