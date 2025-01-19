@@ -37,7 +37,6 @@ logger = get_logger(__name__)
 
 import os
 
-
 def supplement_input(input):
     input = input.replace('“','').replace('”','')
     words = tokenizer_sec(input)
@@ -232,7 +231,6 @@ def query_to_ref(input: str, query, query_kind: int, batch_id: int, index: int, 
     eb_rerank_list = [d for d in eb_rerank_list if d.metadata['rerank_score'] > 0]
     
     rerank(bm25_rerank_list, eb_rerank_list, batch_id, input, index, query, query_kind, 10, 'rrf')
-
 
 def read_file_lines(file_path):
     inputs = []
